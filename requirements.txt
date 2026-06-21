@@ -1,0 +1,7 @@
+requests>=2.31
+beautifulsoup4>=4.12
+duckduckgo-search>=8.0
+sumy>=0.12.0
+numpy>=1.24
+rich>=13.0
+scikit-learn>=1.3
